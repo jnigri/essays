@@ -6,11 +6,17 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Mon, 21 Jul 2025 19:42:17 GMT</pubDate>
+  </item><item>
     <title>Hello</title>
     <link>https://quartz.jzhao.xyz/Hello</link>
     <guid>https://quartz.jzhao.xyz/Hello</guid>
     <description><![CDATA[ It works!. ]]></description>
-    <pubDate>Mon, 21 Jul 2025 19:30:18 GMT</pubDate>
+    <pubDate>Mon, 21 Jul 2025 19:38:58 GMT</pubDate>
   </item>
     </channel>
   </rss>
