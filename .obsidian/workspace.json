@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "761df2fca011b5e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7497748fb7aec905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeefca28d1892ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Hello.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2159633a4de19575",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1883e44cc2a7e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70114e8c4bb7538c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9977c1c207c548be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97dcbe114d9b5c82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffe7d51fc1666d06",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e38c7e02b918f35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa5fe0d94c4a935",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hello"
+            }
+          },
+          {
+            "id": "6b0dec233930b167",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hello"
+            }
+          },
+          {
+            "id": "969137b4f933f3cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd16b4a1920fabef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Hello.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hello"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eeefca28d1892ba5",
+  "lastOpenFiles": [
+    "node_modules/pixi.js/lib/scene/text-bitmap/TextBitmapMixins.d.ts",
+    "node_modules/pixi.js/lib/Shaders.d.ts",
+    "node_modules/pixi.js/lib/scene/SceneMixins.d.ts",
+    "node_modules/pixi.js/lib/scene/text-bitmap/init.d.ts",
+    "node_modules/pixi.js/lib/scene/index.d.ts",
+    "node_modules/pixi.js/lib/index.d.ts",
+    "node_modules/pixi.js/lib/scene/text-bitmap/DynamicBitmapFont.d.ts",
+    "node_modules/pixi.js/lib/scene/text-bitmap/BitmapTextPipe.d.ts",
+    "node_modules/pixi.js/lib/scene/text-bitmap/BitmapText.d.ts",
+    "node_modules/pixi.js/lib/scene/text-bitmap/BitmapFontManager.d.ts",
+    "node_modules/pixi.js/lib/scene/text-bitmap/BitmapFont.d.ts",
+    "node_modules/mathjax-full/README.md",
+    "node_modules/mathjax-full/CONTRIBUTING.md",
+    "node_modules/pixi.js/README.md",
+    "node_modules/rxjs/README.md",
+    "node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "node_modules/rxjs/CHANGELOG.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/@img/sharp-libvips-darwin-arm64/README.md",
+    "node_modules/colorjs.io/README.md",
+    "node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/speech-rule-engine/README.md",
+    "node_modules/speech-rule-engine/bin/README.md",
+    "node_modules/rehype-citation/README.md",
+    "node_modules/flexsearch/README.md",
+    "node_modules/sass/README.md",
+    "node_modules/flexsearch/CHANGELOG.md",
+    "node_modules/katex/README.md",
+    "node_modules/katex/src/metrics/README.md",
+    "node_modules/@bufbuild/protobuf/README.md",
+    "node_modules/@shuding/opentype.js/RELEASES.md",
+    "node_modules/@shuding/opentype.js/README.md",
+    "node_modules/preact/README.md",
+    "node_modules/satori/README.md",
+    "node_modules/prettier/THIRD-PARTY-NOTICES.md",
+    "node_modules/cli-spinner/img/spinner.gif",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/gifuct-js/demo/dog.gif",
+    "node_modules/js-binary-schema-parser/example/horses.gif",
+    "node_modules/js-binary-schema-parser/example/dog.gif",
+    "node_modules/js-binary-schema-parser/example/box.gif",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "docs/images/social-image-preview-light.png"
+  ]
+}
