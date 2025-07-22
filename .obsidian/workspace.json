@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to test code?.md",
+                "file": "content/How to write tech doc?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to test code?"
+              "title": "How to write tech doc?"
             }
           }
         ]
@@ -170,31 +170,34 @@
   },
   "active": "172b186004a3f492",
   "lastOpenFiles": [
-    "content/How to write a git commit message?.md",
-    "content/How to test code?.md",
     "public/index-og-image.webp",
     "public/How-to-write-a-git-commit-message-og-image.webp",
     "public/How-to-test-code-og-image.webp",
     "public/How-to-debug-anything-og-image.webp",
+    "public/How-to-code-review-og-image.webp",
+    "public/How-to-write-a-git-commit-message.html",
+    "public/How-to-test-code.html",
     "public/postscript.js",
     "public/index.html",
     "public/prescript.js",
     "public/static/giscus/light.css",
-    "public/How-to-code-review-og-image.webp",
-    "public/How-to-write-a-git-commit-message.html",
-    "public/index.css",
-    "public/How-to-test-code.html",
-    "public/Untitled-og-image.webp",
-    "public/Untitled.html",
     "public/static/giscus/dark.css",
     "public/static/giscus",
     "public/static/og-image.png",
+    "public/static/contentIndex.json",
     "public/static/icon.png",
-    "content/How to code review?.md",
-    "content/index.md",
+    "public/index.xml",
+    "public/How-to-write-technical-documentation-og-image.webp",
+    "content/How to write a git commit message?.md",
+    "content/How to test code?.md",
+    "content/How to learn a new codebase?.md",
+    "content/How to estimate?.md",
     "content/How to debug anything?.md",
+    "content/How to code review?.md",
+    "content/How to write tech doc?.md",
+    "public/Untitled-og-image.webp",
+    "content/index.md",
     "public/1.-How-to-debug-anything-og-image.webp",
-    "public/Hello-og-image.webp",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/pixi.js/README.md",
@@ -211,9 +214,6 @@
     "node_modules/rehype-citation/README.md",
     "node_modules/flexsearch/README.md",
     "node_modules/sass/README.md",
-    "node_modules/flexsearch/CHANGELOG.md",
-    "node_modules/katex/README.md",
-    "node_modules/katex/src/metrics/README.md",
-    "node_modules/@bufbuild/protobuf/README.md"
+    "node_modules/flexsearch/CHANGELOG.md"
   ]
 }
