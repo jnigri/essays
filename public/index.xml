@@ -6,6 +6,24 @@
       <description>Last 10 notes on Essays</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>How to test code?</title>
+    <link>https://quartz.jzhao.xyz/How-to-test-code</link>
+    <guid>https://quartz.jzhao.xyz/How-to-test-code</guid>
+    <description><![CDATA[ Remember that you have to maintain tests. Keep code simple. Keep tests simpler. Avoid abstractions in code. Ban them in tests. ]]></description>
+    <pubDate>Tue, 22 Jul 2025 18:18:18 GMT</pubDate>
+  </item><item>
+    <title>How to write a git commit message?</title>
+    <link>https://quartz.jzhao.xyz/How-to-write-a-git-commit-message</link>
+    <guid>https://quartz.jzhao.xyz/How-to-write-a-git-commit-message</guid>
+    <description><![CDATA[ Limit the subject line to 50 chars. Write like you’re giving orders. Start with a verb. One line often suffices. Limit the body lines to 72 chars. ]]></description>
+    <pubDate>Tue, 22 Jul 2025 17:50:17 GMT</pubDate>
+  </item><item>
+    <title>How to code review?</title>
+    <link>https://quartz.jzhao.xyz/How-to-code-review</link>
+    <guid>https://quartz.jzhao.xyz/How-to-code-review</guid>
+    <description><![CDATA[ In most cases, do not make code review mandatory. When people can deploy, they own it. When people own it, they care for it. You should comment. ]]></description>
+    <pubDate>Tue, 22 Jul 2025 17:38:31 GMT</pubDate>
+  </item><item>
     <title>How to debug anything?</title>
     <link>https://quartz.jzhao.xyz/How-to-debug-anything</link>
     <guid>https://quartz.jzhao.xyz/How-to-debug-anything</guid>

@@ -1,6 +1,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://quartz.jzhao.xyz/How-to-code-review</loc>
+    <lastmod>2025-07-22T17:38:31.054Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/How-to-debug-anything</loc>
     <lastmod>2025-07-22T16:48:30.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/How-to-test-code</loc>
+    <lastmod>2025-07-22T18:18:18.761Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/How-to-write-a-git-commit-message</loc>
+    <lastmod>2025-07-22T17:50:17.353Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
     <lastmod>2025-07-22T16:48:30.000Z</lastmod>
