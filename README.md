@@ -8,3 +8,5 @@ npx quartz build
 
 npx quartz build --serve
 ```
+
+npx quartz sync --no-pull
