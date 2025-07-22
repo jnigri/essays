@@ -1,5 +1,7 @@
 ---
 title: Julien Nigri
 ---
-It works!
+👨‍💻 Software Engineer
+
+*You probably used code that I wrote.*
 
