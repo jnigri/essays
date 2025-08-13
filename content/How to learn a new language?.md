@@ -4,7 +4,7 @@ draft:
 ---
 *Caveat* 
 *This below doesn't apply if you are new at programming.*  
-*If you are new at programming, pick a language and build small things first.*  
+*If you are, pick a language and build small things first.*  
 
 Read the language specification from cover to cover.  
 Then read the standard library from cover to cover.  
