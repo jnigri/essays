@@ -2,12 +2,9 @@
 title: How to learn a new language?
 draft:
 ---
-### Caveat 
-
-This below doesn't apply if you are new at programming.  
-If you are new at programming, pick a language and build small things first.  
-
-### So, how to learn a new language?
+*Caveat* 
+*This below doesn't apply if you are new at programming.*  
+*If you are new at programming, pick a language and build small things first.*  
 
 Read the language specification from cover to cover.  
 Then read the standard library from cover to cover.  
@@ -15,7 +12,9 @@ Then read the standard library from cover to cover.
 Don't stop for too long if you don't understand something.  
 Yes it's going to be hard and tedious.  
 Yes it won't make you an expert immediately.  
-This is a first step where your brain will index what's most likely the source of truth for this language.  
+This is a first step.  
+Your brain will index these documents.   
+You will then know where to look.   
+It's a good bet to assume that these documents are the best source of truth.  
 
-Then start to build things, and refer to that documentation when you have doubts.   
-This is how you will become an expert.
+Then start building things.
