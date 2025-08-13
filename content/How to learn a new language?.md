@@ -8,7 +8,7 @@ Read the language specification from cover to cover.
 Then read the standard library from cover to cover.  
 
 Don't stop for too long if you don't understand something.  
-Yes it's going to be hard and tenuous.  
+Yes it's going to be hard and tedious.  
 Yes it won't make you an expert immediately.  
 This is a first step where your brain will index what's most likely the source of truth for this language.  
 
