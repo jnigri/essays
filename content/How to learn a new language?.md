@@ -4,7 +4,7 @@ draft:
 ---
 ### Caveat 
 
-This below doesn't apply if you are new at programming.
+This below doesn't apply if you are new at programming.  
 If you are new at programming, pick a language and build small things first.  
 
 ### So, how to learn a new language?
