@@ -12,5 +12,5 @@ Yes it's going to be hard and tedious.
 Yes it won't make you an expert immediately.  
 This is a first step where your brain will index what's most likely the source of truth for this language.  
 
-Then start to build things, and refer to that documentation when you have doubts. 
+Then start to build things, and refer to that documentation when you have doubts.   
 This is how you will become an expert.
