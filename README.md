@@ -9,4 +9,8 @@ npx quartz build
 npx quartz build --serve
 ```
 
+## How to push to repo?
+
+```
 npx quartz sync --no-pull
+```

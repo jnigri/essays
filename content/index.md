@@ -1,7 +1,7 @@
 ---
 title: Julien Nigri
 ---
-👨‍💻 Software Engineer
+👨‍💻 I write software
 
 *You probably used code that I wrote.*
 

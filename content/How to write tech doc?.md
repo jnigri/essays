@@ -1,4 +1,4 @@
 ---
-title: How to write  tech doc?
+title: How to write tech doc?
 draft: true
 ---
