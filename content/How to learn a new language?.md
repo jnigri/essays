@@ -1,5 +1,5 @@
 ---
-title: How to learn a new language
+title: How to learn a new language?
 draft:
 ---
 If you are new at programming, pick a language and build small things first.  
