@@ -2,8 +2,12 @@
 title: How to learn a new language?
 draft:
 ---
+### Caveat 
+
 This below doesn't apply if you are new at programming.
 If you are new at programming, pick a language and build small things first.  
+
+### So, how to learn a new language?
 
 Read the language specification from cover to cover.  
 Then read the standard library from cover to cover.  
