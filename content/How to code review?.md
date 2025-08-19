@@ -2,22 +2,48 @@
 title: How to code review?
 draft:
 ---
-In most cases, do not make code review mandatory.  
+Consider not making code reviews mandatory.  
 When people can deploy, they own it.  
 When people own it, they care for it.
 
 You should comment.  
 Reviewing is a chance to learn together.  
-Don't command, suggest and explain why.  
-Do not comment on formatting, automate it.  
 
-Make a big effort to post all comments at once.
+Suggest, don't command.  
+Explain your reasoning.  
+Give examples.  
+Suggest a code change.  
 
-In most cases, you should approve.  
-Does this change make the system better? Then approve it.  
-Does this change add a feature?  Then approve it.  
-Does this change fix a bug? Then approve it.  
-Do not slow down productivity for an opinion.  
+Don't comment on formatting.  
+Automate it.  
 
-The ultimate code review catches something that would break.  
+Batch your feedback.  
+Post all comments at once.  
+Context switching kills flow.  
+
+Has the change been tested (even manually)?  
+Approve.  
+
+Does it improve the system?  
+Approve.  
+
+Does it add value?  
+Approve.  
+
+Does it fix something broken?  
+Approve.  
+
+Don't block progress for style opinions.  
+Perfectionism slows everyone down.  
+
+Trust your team.  
+
+Pick your battles.  
+
+Reviews aren't about control.  
+They are about catching disasters.  
+They are about learning from each other.  
+
+The best reviews catch real bugs.  
+Things that would actually break.  
 Be a hero, find a real bug.  
