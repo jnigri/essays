@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to write a git commit message?.md",
+                "file": "content/How to estimate?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to write a git commit message?"
+              "title": "How to estimate?"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "172b186004a3f492",
   "lastOpenFiles": [
+    "content/How to code review?.md",
+    "content/How to write tech doc?.md",
+    "content/How to write a git commit message?.md",
     "content/How to test code?.md",
     "public/index-og-image.webp",
     "public/How-to-write-a-git-commit-message-og-image.webp",
@@ -194,7 +197,6 @@
     "content/How to learn a new codebase?.md",
     "content/How to estimate?.md",
     "content/How to debug anything?.md",
-    "content/How to code review?.md",
     "2025-08-14.md",
     "node_modules/@img/sharp-darwin-arm64/README.md",
     "node_modules/@esbuild/darwin-arm64/README.md",
@@ -206,8 +208,6 @@
     "node_modules/esbuild 2/README.md",
     "content/index 2.md",
     "README.md",
-    "content/How to write tech doc?.md",
-    "content/How to write a git commit message?.md",
     "Untitled.md",
     "2025-08-04.md",
     "node_modules/@napi-rs/simple-git-darwin-x64/README.md",

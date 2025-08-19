@@ -2,11 +2,9 @@
 title: How to estimate?
 draft: false
 ---
-Estimates are wrong.  
-Always.  
-
-Don't spend forever making them perfect.  
 Perfect estimates don't exist.  
+They are guesses.   
+Don't spend too much time making them perfect.   
 
 "Man makes plans, God laughs."  
 
