@@ -2,10 +2,10 @@
 title: How to estimate?
 draft: false
 ---
+Don't spend too much time on estimates.  
+
 Perfect estimates don't exist.  
 They are guesses.   
-
-Don't spend too much time on estimates.  
 
 "Man makes plans, God laughs."  
 
