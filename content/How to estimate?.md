@@ -4,7 +4,8 @@ draft: false
 ---
 Perfect estimates don't exist.  
 They are guesses.   
-Don't spend too much time making them perfect.   
+
+Don't spend too much time on estimates.  
 
 "Man makes plans, God laughs."  
 
