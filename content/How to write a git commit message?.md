@@ -10,7 +10,7 @@ Start with a verb.
 One line often suffices.
 
 Limit the body lines to 72 chars.  
-Explain how you tested the change.
+Explain how you tested the change.  
 You haven't tested the change? Go do that first.
 
 A template I like:

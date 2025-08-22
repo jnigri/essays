@@ -6,6 +6,12 @@
       <description>Last 10 notes on Essays</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>How to learn a new language?</title>
+    <link>https://quartz.jzhao.xyz/How-to-learn-a-new-language</link>
+    <guid>https://quartz.jzhao.xyz/How-to-learn-a-new-language</guid>
+    <description><![CDATA[ Caveat This below doesn’t apply if you are new at programming. If you are, pick a language and build small things first. ]]></description>
+    <pubDate>Wed, 20 Aug 2025 17:54:19 GMT</pubDate>
+  </item><item>
     <title>How to estimate?</title>
     <link>https://quartz.jzhao.xyz/How-to-estimate</link>
     <guid>https://quartz.jzhao.xyz/How-to-estimate</guid>
@@ -17,12 +23,6 @@
     <guid>https://quartz.jzhao.xyz/How-to-code-review</guid>
     <description><![CDATA[ Consider not making code reviews mandatory. When people can deploy, they own it. When people own it, they care for it. You should comment. ]]></description>
     <pubDate>Tue, 19 Aug 2025 03:13:22 GMT</pubDate>
-  </item><item>
-    <title>How to learn a new language?</title>
-    <link>https://quartz.jzhao.xyz/How-to-learn-a-new-language</link>
-    <guid>https://quartz.jzhao.xyz/How-to-learn-a-new-language</guid>
-    <description><![CDATA[ Caveat This below doesn’t apply if you are new at programming. If you are, pick a language and build small things first. ]]></description>
-    <pubDate>Wed, 13 Aug 2025 16:06:14 GMT</pubDate>
   </item><item>
     <title>Julien Nigri</title>
     <link>https://quartz.jzhao.xyz/</link>
