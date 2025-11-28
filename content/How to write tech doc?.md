@@ -17,5 +17,5 @@ Lose useless adjectives:
 Order sections by most important first.  
 
 Keep it short.  
-Add as many appendix as you want.  
+Add as many appendices you want.  
 Discuss trade-offs in appendices.  
