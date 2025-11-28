@@ -5,3 +5,5 @@ title: Julien Nigri
 
 *You probably used code that I wrote.*
 
+Beware the person with no doubts.   
+Confidence seduces, at the expense of truth.
