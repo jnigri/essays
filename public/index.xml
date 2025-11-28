@@ -2,55 +2,55 @@
 <rss version="2.0">
     <channel>
       <title>Essays</title>
-      <link>https://quartz.jzhao.xyz</link>
+      <link>https://nigri.dev</link>
       <description>Last 10 notes on Essays</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>How to work remotely?</title>
-    <link>https://quartz.jzhao.xyz/How-to-work-remotely</link>
-    <guid>https://quartz.jzhao.xyz/How-to-work-remotely</guid>
+    <link>https://nigri.dev/How-to-work-remotely</link>
+    <guid>https://nigri.dev/How-to-work-remotely</guid>
     <description><![CDATA[ Get a dedicated place. No distractions. Work 8 hours a day. No more. No less. Work as the very first thing of the day. ]]></description>
     <pubDate>Fri, 28 Nov 2025 22:59:03 GMT</pubDate>
   </item><item>
     <title>Julien Nigri</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
+    <link>https://nigri.dev/</link>
+    <guid>https://nigri.dev/</guid>
     <description><![CDATA[ 👨‍💻 I write software You probably used code that I wrote. Beware the person with no doubts. Confidence seduces, at the expense of truth. ]]></description>
     <pubDate>Fri, 28 Nov 2025 22:59:03 GMT</pubDate>
   </item><item>
     <title>How to write a git commit message?</title>
-    <link>https://quartz.jzhao.xyz/How-to-write-a-git-commit-message</link>
-    <guid>https://quartz.jzhao.xyz/How-to-write-a-git-commit-message</guid>
+    <link>https://nigri.dev/How-to-write-a-git-commit-message</link>
+    <guid>https://nigri.dev/How-to-write-a-git-commit-message</guid>
     <description><![CDATA[ Limit the subject line to 50 chars. Write like you’re giving orders. Start with a verb. One line often suffices. Limit the body lines to 72 chars. ]]></description>
     <pubDate>Fri, 22 Aug 2025 09:57:13 GMT</pubDate>
   </item><item>
     <title>How to learn a new language?</title>
-    <link>https://quartz.jzhao.xyz/How-to-learn-a-new-language</link>
-    <guid>https://quartz.jzhao.xyz/How-to-learn-a-new-language</guid>
+    <link>https://nigri.dev/How-to-learn-a-new-language</link>
+    <guid>https://nigri.dev/How-to-learn-a-new-language</guid>
     <description><![CDATA[ Caveat This below doesn’t apply if you are new at programming. If you are, pick a language and build small things first. ]]></description>
     <pubDate>Wed, 20 Aug 2025 17:54:19 GMT</pubDate>
   </item><item>
     <title>How to estimate?</title>
-    <link>https://quartz.jzhao.xyz/How-to-estimate</link>
-    <guid>https://quartz.jzhao.xyz/How-to-estimate</guid>
+    <link>https://nigri.dev/How-to-estimate</link>
+    <guid>https://nigri.dev/How-to-estimate</guid>
     <description><![CDATA[ Don’t spend too much time on estimates. Perfect estimates don’t exist. They are guesses. “Man makes plans, God laughs.” But estimates still matter. ]]></description>
     <pubDate>Wed, 20 Aug 2025 06:37:36 GMT</pubDate>
   </item><item>
     <title>How to code review?</title>
-    <link>https://quartz.jzhao.xyz/How-to-code-review</link>
-    <guid>https://quartz.jzhao.xyz/How-to-code-review</guid>
+    <link>https://nigri.dev/How-to-code-review</link>
+    <guid>https://nigri.dev/How-to-code-review</guid>
     <description><![CDATA[ Consider not making code reviews mandatory. When people can deploy, they own it. When people own it, they care for it. You should comment. ]]></description>
     <pubDate>Tue, 19 Aug 2025 03:13:22 GMT</pubDate>
   </item><item>
     <title>How to test code?</title>
-    <link>https://quartz.jzhao.xyz/How-to-test-code</link>
-    <guid>https://quartz.jzhao.xyz/How-to-test-code</guid>
+    <link>https://nigri.dev/How-to-test-code</link>
+    <guid>https://nigri.dev/How-to-test-code</guid>
     <description><![CDATA[ Remember that you have to maintain tests. Keep code simple. Keep tests simpler. Avoid abstractions in code. Ban them in tests. ]]></description>
     <pubDate>Tue, 22 Jul 2025 19:02:14 GMT</pubDate>
   </item><item>
     <title>How to debug anything?</title>
-    <link>https://quartz.jzhao.xyz/How-to-debug-anything</link>
-    <guid>https://quartz.jzhao.xyz/How-to-debug-anything</guid>
+    <link>https://nigri.dev/How-to-debug-anything</link>
+    <guid>https://nigri.dev/How-to-debug-anything</guid>
     <description><![CDATA[ Be great at debugging. Read the error messages. Start from the last message. Hidden in the noise, you may find the solution. Stay calm. ]]></description>
     <pubDate>Tue, 22 Jul 2025 16:48:30 GMT</pubDate>
   </item>

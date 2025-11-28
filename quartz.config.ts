@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "nigri.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -27,26 +27,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#fefefe",
-          lightgray: "#f1f0ee",
-          gray: "#c7c5c1",
-          darkgray: "#605d56",
-          dark: "#2a2821",
-          secondary: "#16a34a",
-          tertiary: "#84cc16",
-          highlight: "rgba(34, 197, 94, 0.12)",
-          textHighlight: "#84cc1688",
+          light: "#eff1f5",      // Latte Base
+          lightgray: "#e6e9ef",  // Latte Mantle
+          gray: "#9ca0b0",       // Latte Overlay0
+          darkgray: "#5c5f77",   // Latte Subtext0
+          dark: "#4c4f69",       // Latte Text
+          secondary: "#40a02b",  // Latte Green
+          tertiary: "#179299",   // Latte Teal (complementary)
+          highlight: "rgba(64, 160, 43, 0.12)",
+          textHighlight: "#40a02b88",
         },
         darkMode: {
-          light: "#0c0c0d",
-          lightgray: "#1a1a1c",
-          gray: "#525256",
-          darkgray: "#c4c4c7",
-          dark: "#f4f4f5",
-          secondary: "#22c55e",
-          tertiary: "#a3e635",
-          highlight: "rgba(74, 222, 128, 0.12)",
-          textHighlight: "#a3e63588",
+          light: "#1e1e2e",      // Mocha Base
+          lightgray: "#181825",  // Mocha Mantle
+          gray: "#6c7086",       // Mocha Overlay0
+          darkgray: "#cdd6f4",   // Mocha Text
+          dark: "#cdd6f4",       // Mocha Text
+          secondary: "#a6e3a1",  // Mocha Green
+          tertiary: "#94e2d5",   // Mocha Teal (complementary)
+          highlight: "rgba(166, 227, 161, 0.12)",
+          textHighlight: "#a6e3a188",
         },
       },
     },
