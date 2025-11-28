@@ -11,12 +11,14 @@
             "id": "172b186004a3f492",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "public/static/icon.png"
+                "file": "content/How to write tech doc?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "icon"
+              "icon": "lucide-file",
+              "title": "How to write tech doc?"
             }
           }
         ]
@@ -167,10 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70114e8c4bb7538c",
+  "active": "172b186004a3f492",
   "lastOpenFiles": [
     "public/index-og-image.webp",
     "public/How-to-write-a-git-commit-message-og-image.webp",
+    "public/How-to-code-review-og-image.webp",
+    "public/static/og-image.png",
+    "public/static/icon.png",
     "public/How-to-work-remotely-og-image.webp",
     "public/How-to-test-code-og-image.webp",
     "public/How-to-learn-a-new-language-og-image.webp",
@@ -186,10 +191,7 @@
     "public/static/giscus/dark.css",
     "public/static/giscus/light.css",
     "public/static/giscus",
-    "public/static/og-image.png",
-    "public/How-to-code-review-og-image.webp",
     "content/How to learn a new codebase?.md",
-    "public/static/icon.png",
     "content/How to write tech doc?.md",
     "content/How to write a git commit message?.md",
     "content/How to work remotely?.md",
