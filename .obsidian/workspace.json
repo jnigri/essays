@@ -11,14 +11,12 @@
             "id": "172b186004a3f492",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "public/static/icon.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "icon"
             }
           }
         ]
@@ -183,17 +181,26 @@
     "public/How-to-work-remotely.html",
     "public/postscript.js",
     "public/How-to-test-code.html",
-    "public/prescript.js",
     "public/How-to-learn-a-new-language.html",
+    "public/prescript.js",
+    "public/index.css",
     "public/static/giscus/light.css",
     "public/static/giscus/dark.css",
-    "public/static/giscus",
-    "public/static/og-image.png",
     "public/How-to-code-review-og-image.webp",
+    "public/static/og-image.png",
+    "public/favicon.png",
+    "public/static/icon.png",
+    "content/How to learn a new codebase?.md",
+    "content/How to write tech doc?.md",
+    "content/How to write a git commit message?.md",
     "content/How to work remotely?.md",
-    "content/index.md",
-    "README.md",
     "content/How to test code?.md",
+    "content/How to learn a new language?.md",
+    "content/How to estimate?.md",
+    "content/How to code review?.md",
+    "content/How to debug anything?.md",
+    "README.md",
+    "content/index.md",
     "Untitled.md",
     "public/How to work remotely.md",
     "node_modules/mathjax-full/README.md",
@@ -207,15 +214,6 @@
     "node_modules/@img/sharp-libvips-darwin-x64/README.md",
     "node_modules/colorjs.io/README.md",
     "node_modules/@esbuild/darwin-x64/README.md",
-    "node_modules/speech-rule-engine/README.md",
-    "node_modules/speech-rule-engine/bin/README.md",
-    "node_modules/rehype-citation/README.md",
-    "node_modules/sass/README.md",
-    "node_modules/flexsearch/README.md",
-    "node_modules/flexsearch/CHANGELOG.md",
-    "node_modules/katex/README.md",
-    "node_modules/katex/src/metrics/README.md",
-    "node_modules/cli-spinner/img/spinner.gif",
-    "node_modules/gifuct-js/demo/jblack.gif"
+    "node_modules/speech-rule-engine/README.md"
   ]
 }
