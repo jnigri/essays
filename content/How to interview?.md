@@ -5,7 +5,7 @@ The option to reschedule might be really appreciated.
 Apologies in advance because you are going to interrupt them.  
 Explain that it's to make sure you can go through everything.  
 
-Apologies in advance because you might not reply.
+Apologies in advance because you might not reply.  
 Explain that it's because you are taking notes.  
 
 Be friendly.  
