@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to work remotely?.md",
+                "file": "content/How to lead interviews?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to work remotely?"
+              "title": "How to lead interviews?"
             }
           }
         ]
@@ -177,6 +177,7 @@
     "public/How-to-work-remotely-og-image.webp",
     "public/How-to-test-code-og-image.webp",
     "public/How-to-learn-a-new-language-og-image.webp",
+    "public/How-to-lead-interviews-og-image.webp",
     "public/How-to-estimate-og-image.webp",
     "public/How-to-debug-anything-og-image.webp",
     "public/index.html",
@@ -184,18 +185,19 @@
     "public/How-to-write-a-git-commit-message.html",
     "public/How-to-work-remotely.html",
     "public/How-to-test-code.html",
-    "public/How-to-learn-a-new-language.html",
     "public/postscript.js",
-    "public/How-to-estimate.html",
-    "public/static/contentIndex.json",
+    "public/How-to-learn-a-new-language.html",
+    "public/How-to-lead-interviews.html",
+    "public/prescript.js",
     "public/static/giscus/light.css",
     "public/static/og-image.png",
     "public/How-to-code-review-og-image.webp",
+    "content/How to work remotely?.md",
+    "content/How to lead interviews?.md",
     "content/How to write tech doc?.md",
     "content/index.md",
     "content/How to learn a new codebase?.md",
     "content/How to write a git commit message?.md",
-    "content/How to work remotely?.md",
     "content/How to test code?.md",
     "content/How to learn a new language?.md",
     "content/How to estimate?.md",
@@ -214,7 +216,6 @@
     "node_modules/typescript/README.md",
     "node_modules/@img/sharp-libvips-darwin-x64/README.md",
     "node_modules/colorjs.io/README.md",
-    "node_modules/@esbuild/darwin-x64/README.md",
-    "node_modules/speech-rule-engine/README.md"
+    "node_modules/@esbuild/darwin-x64/README.md"
   ]
 }
