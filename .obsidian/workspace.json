@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to interviews?.md",
+                "file": "content/How to interview?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to interviews?"
+              "title": "How to interview?"
             }
           }
         ]
@@ -177,7 +177,7 @@
     "public/How-to-work-remotely-og-image.webp",
     "public/How-to-test-code-og-image.webp",
     "public/How-to-learn-a-new-language-og-image.webp",
-    "public/How-to-interviews-og-image.webp",
+    "public/How-to-interview-og-image.webp",
     "public/How-to-estimate-og-image.webp",
     "public/How-to-debug-anything-og-image.webp",
     "public/index.html",
@@ -185,15 +185,15 @@
     "public/How-to-write-a-git-commit-message.html",
     "public/How-to-work-remotely.html",
     "public/How-to-test-code.html",
-    "public/How-to-learn-a-new-language.html",
     "public/postscript.js",
-    "public/How-to-interviews.html",
+    "public/How-to-learn-a-new-language.html",
+    "public/How-to-interview.html",
     "public/prescript.js",
-    "public/static/contentIndex.json",
+    "public/static/giscus/light.css",
     "public/static/og-image.png",
     "public/How-to-code-review-og-image.webp",
     "content/How to learn a new codebase?.md",
-    "content/How to interviews?.md",
+    "content/How to interview?.md",
     "content/How to estimate?.md",
     "content/How to work remotely?.md",
     "content/How to write tech doc?.md",
