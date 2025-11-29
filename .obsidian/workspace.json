@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to write tech doc?.md",
+                "file": "content/How to work remotely?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to write tech doc?"
+              "title": "How to work remotely?"
             }
           }
         ]
@@ -185,14 +185,14 @@
     "public/How-to-work-remotely.html",
     "public/How-to-test-code.html",
     "public/How-to-learn-a-new-language.html",
-    "public/static/giscus/light.css",
-    "public/static/giscus/dark.css",
-    "public/static/giscus",
     "public/postscript.js",
+    "public/How-to-estimate.html",
+    "public/static/contentIndex.json",
+    "public/static/giscus/light.css",
     "public/static/og-image.png",
     "public/How-to-code-review-og-image.webp",
-    "content/index.md",
     "content/How to write tech doc?.md",
+    "content/index.md",
     "content/How to learn a new codebase?.md",
     "content/How to write a git commit message?.md",
     "content/How to work remotely?.md",
