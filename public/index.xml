@@ -9,8 +9,8 @@
     <title>How to code review?</title>
     <link>https://nigri.dev/How-to-code-review</link>
     <guid>https://nigri.dev/How-to-code-review</guid>
-    <description><![CDATA[ Consider making code review approval non-blocking. When people can deploy, they own it. When people own it, they care for it. You should comment. ]]></description>
-    <pubDate>Tue, 30 Dec 2025 22:35:12 GMT</pubDate>
+    <description><![CDATA[ Consider not making code review approval mandatory. When people can deploy, they own it. When people own it, they care for it. You should comment. ]]></description>
+    <pubDate>Tue, 30 Dec 2025 22:40:08 GMT</pubDate>
   </item><item>
     <title>Julien Nigri</title>
     <link>https://nigri.dev/</link>

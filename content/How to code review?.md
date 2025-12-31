@@ -2,7 +2,7 @@
 title: How to code review?
 draft:
 ---
-Consider making code review approval non-blocking.  
+Consider not making code review approval mandatory.  
 When people can deploy, they own it.  
 When people own it, they care for it.
 
