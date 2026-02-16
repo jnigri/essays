@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/How to code review?.md",
+                "file": "content/How to work from home?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to code review?"
+              "title": "How to work from home?"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "blind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,25 +174,27 @@
     "public/index-og-image.webp",
     "public/How-to-write-tech-doc-og-image.webp",
     "public/How-to-write-a-git-commit-message-og-image.webp",
-    "public/How-to-work-remotely-og-image.webp",
+    "public/How-to-work-from-home-og-image.webp",
     "public/How-to-test-code-og-image.webp",
     "public/How-to-learn-a-new-language-og-image.webp",
     "public/How-to-interview-og-image.webp",
     "public/How-to-estimate-og-image.webp",
     "public/How-to-debug-anything-og-image.webp",
+    "public/index.html",
+    "public/How-to-write-tech-doc.html",
+    "public/How-to-write-a-git-commit-message.html",
+    "public/How-to-work-from-home.html",
+    "public/How-to-test-code.html",
+    "public/How-to-learn-a-new-language.html",
+    "public/prescript.js",
     "public/How-to-interview.html",
+    "public/index.css",
     "public/How-to-estimate.html",
     "public/How-to-code-review-og-image.webp",
+    "content/How to code review?.md",
+    "public/How-to-work-remotely-og-image.webp",
     "node_modules/@citation-js/plugin-bibtex/README.md",
     "node_modules/@citation-js/plugin-bibtex/LICENSE.md",
-    "node_modules/@citation-js/plugin-bibtex/package.json",
-    "node_modules/@citation-js/plugin-bibtex/lib/output/entries.js",
-    "node_modules/@citation-js/plugin-bibtex/lib/output/bibtex.js",
-    "node_modules/@citation-js/plugin-bibtex/lib/output/value.js",
-    "node_modules/@citation-js/plugin-bibtex/lib/output/bibtxt.js",
-    "node_modules/@citation-js/plugin-bibtex/lib/output/index.js",
-    "node_modules/@citation-js/plugin-bibtex/lib/input/value.js",
-    "node_modules/@citation-js/plugin-bibtex/lib/input/unicode.json",
     "node_modules/@floating-ui/core/README.md",
     "node_modules/@citation-js/plugin-bibjson/README.md",
     "node_modules/@citation-js/plugin-bibjson/LICENSE.md",
@@ -214,8 +216,6 @@
     "node_modules/hast-util-from-html/node_modules/unist-util-stringify-position/readme.md",
     "node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
     "node_modules/hast-util-to-html/node_modules/property-information/readme.md",
-    "node_modules/hast-util-from-html/node_modules/vfile-message/readme.md",
-    "node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
-    "node_modules/cli-spinner/img/spinner.gif"
+    "node_modules/hast-util-from-html/node_modules/vfile-message/readme.md"
   ]
 }

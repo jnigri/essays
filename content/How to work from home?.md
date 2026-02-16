@@ -1,3 +1,5 @@
+Have [a sense of urgency](https://world.hey.com/jorge/a-sense-of-urgency-f7edeba7).
+
 Get a dedicated place.  
 No distractions.  
 
