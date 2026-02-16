@@ -1,4 +1,4 @@
 ---
 title: Julien Nigri
 ---
-👨‍💻 I write software.
+👨‍💻 I develop software.
